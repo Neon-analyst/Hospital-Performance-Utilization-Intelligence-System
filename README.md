@@ -35,7 +35,9 @@ Admissions
 .Radiology
 .Surgery
 
+
 ✔ Identifies high-demand services
+
 ✔ Supports resource allocation decisions
 
 2. Hospital Service Utilization by Category
@@ -50,7 +52,9 @@ Analysis of service-level activity
 .Pediatrics
 .Outpatient
 
-✔ Highlights operational pressure points
+
+✔ Highlights operational pressure 
+
 ✔ Tracks service capacity and performance
 
 3️.Departmental Distribution
@@ -63,6 +67,7 @@ Patient activity categorized by;
 .Maternity
 .Internal Medicine
 .Outpatient
+
 
 ✔ Enables departmental benchmarking
 ✔ Supports performance comparison
@@ -79,7 +84,10 @@ Comparison across healthcare institutions;
 .Rimi Othman Hospital
 .Garki Hospital Abuja
 
+
 ✔ Measures institutional contribution
+
+
 ✔ Identifies top-performing facilities
 
 5️.Admission Volume Trends
@@ -92,7 +100,10 @@ Peak admission periods
 
 Low activity months
 
+
 ✔ Assists in demand forecasting
+
+
 ✔ Supports workforce and resource planning
 
 6️. Regional Hospital Utilization
